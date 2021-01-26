@@ -1,7 +1,7 @@
 # Projeto-Museu-Nacional
 O propósito deste projeto é desenvolver os conhecimentos adquiridos no curso - Desenvolvimento Web Completo 2021 - 20 cursos + 20 projetos  
 
-### TÉCNOLOGIAS USADAS HTML CSS3
+### TÉCNOLOGIAS USADAS - HTML5 CSS3
 
 #### Novas Tags HTML5
 
